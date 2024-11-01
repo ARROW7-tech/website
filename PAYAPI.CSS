@@ -1,0 +1,124 @@
+h1{
+    font-size: 72px;
+}
+
+body{
+    background-color: powderblue;
+}
+
+.young{
+    padding: 10px;
+    background-color:white;
+    border-radius: 20px;
+    width: 300px;
+    font-weight: bold;
+    
+
+
+}
+.toi{
+    padding: 10px 20px;
+    background-color: brown;
+    border-radius: 20px;
+    color: white;
+}
+.mmmm{
+    font-weight: bold;
+    font-size: 18px;
+}
+.po{
+    color: green;
+    font-size: 18px;
+
+}
+.ii{
+   font-size: 42px; 
+   font-weight: bold;
+   color: white;
+
+}
+.ee{
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: transparent;
+}
+
+.ee:hover{
+    background-color: white;
+    color: black;
+}
+h2{
+    font-size:  48px; ;
+    font-weight: bolder;
+    
+}
+.mm{
+    font-weight:thin;
+    font-size:20px;
+    
+}
+h3{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.nn{
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+
+.bb{
+    font-weight: bolder;
+    font-size:20px;
+    color:green;
+}
+
+.eeee{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.t{
+    font-weight: bolder;
+    font-size: 20px;
+    color: green;
+}
+
+.v{
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+.z{
+    font-weight: bolder;
+    font-size: 20px;
+    color: green;
+}
+
+.ccc{
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+.xxxx{
+    padding: 10px;
+    background-color: white;
+    width: 300px;
+    font-weight: bold;
+    font-size: 200px;
+    border-radius: 20px;
+
+}
+
+/* .toi{
+    padding: 10px 20px;
+    background-color: brown;
+    border: 30px;
+    color: white;
+    
+} */
