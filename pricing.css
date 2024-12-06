@@ -1,0 +1,53 @@
+h2{
+    color: brown;
+}
+
+    
+
+ .price{
+    color: rgb(54, 83, 107);
+    font-weight: bold;
+
+ }
+
+ .von{
+    color: blue;
+    border: 20%;
+    padding: 10px;
+    font-weight: bold;
+    font: size 30px;;
+ }
+
+ .young {
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    font-weight: bold;
+
+
+
+}
+ 
+
+.toi {
+    padding 10px 20px;
+    background-color: brown;
+    border-radius: 20px;
+    color: white;
+}
+
+.ppp:hover{
+    background-color: black;
+    color: white;
+    
+}
+.ppp{
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: transparent;
+}
+
+.col>ul{
+    list-style: none;
+}

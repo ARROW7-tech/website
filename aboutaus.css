@@ -1,0 +1,48 @@
+.sight {
+    font-weight: bolder;
+    color: #36536b;
+}
+
+.vision,
+.business {
+    font-weight: bold;
+}
+
+.member,
+.ana,
+.office {
+    color: brown;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.line {
+    padding: 10px;
+    border-block: 1px solid red;
+
+
+}
+
+
+.young {
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    font-weight: bold;
+
+
+
+}
+
+.ppp {
+    padding: 10px 20px;
+    background-color: white;
+    border: 20px;
+    border-radius: 20px;
+    
+    
+    
+}
